@@ -164,8 +164,6 @@ The circuit was designed following mixed-signal design principles to ensure safe
 
 ---
 
----
-
 ## System Algorithms
 
 ### Main System Flow
