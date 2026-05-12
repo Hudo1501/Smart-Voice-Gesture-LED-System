@@ -164,56 +164,6 @@ The circuit was designed following mixed-signal design principles to ensure safe
 
 ---
 
-## Overall Schematic Diagram
-
-<p align="center">
-  <img src="images/schematic.png" width="900"/>
-</p>
-
-<p align="center">
-  <em>Figure 6. Overall Circuit Schematic</em>
-</p>
-
----
-
-## PCB Layout
-
-The PCB layout separates:
-- High-current power traces
-- Sensitive signal-processing regions
-
-### PCB Optimization Techniques
-
-* Wide power traces (1.5mm – 2.5mm)
-* Ground Polygon Pour
-* EMI shielding techniques
-* Heat isolation for power modules
-* Optimized routing for signal integrity
-
----
-
-## PCB 2D Layout
-
-<p align="center">
-  <img src="images/pcb_2d.png" width="800"/>
-</p>
-
-<p align="center">
-  <em>Figure 7. PCB 2D Routing Layout</em>
-</p>
-
----
-
-## PCB 3D Visualization
-
-<p align="center">
-  <img src="images/pcb_3d.png" width="800"/>
-</p>
-
-<p align="center">
-  <em>Figure 8. PCB 3D Perspective View</em>
-</p>
-
 ---
 
 ## System Algorithms
@@ -243,17 +193,11 @@ The system includes a responsive Web Application for remote monitoring and contr
 * Voice command support using Web Speech API
 * Live synchronization using Socket.IO
 
-The Frontend source code is embedded directly into ESP32 Flash memory using:
-
-```cpp
-PROGMEM
-```
-
 ---
 
 ## Web Dashboard
 
-![image]()
+![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/web.png)
 ---
 
 ## Experimental Results
@@ -286,14 +230,6 @@ The system demonstrated:
 - No buffer overflow
 - Reliable continuous operation
 
-
----
-
-## Demo Video
-
-[Watch System Demonstration](https://youtube.com/your-demo-link)
-
----
 
 ## Future Development
 
