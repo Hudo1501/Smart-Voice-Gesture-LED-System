@@ -82,18 +82,6 @@ Dataset split ratio:
 
 ---
 
-## Mel-Spectrogram Analysis
-
-<p align="center">
-  <img src="images/mel_spectrograms.png" width="850"/>
-</p>
-
-<p align="center">
-  <em>Figure 4. Mel-Spectrogram Characteristics of Voice Commands</em>
-</p>
-
----
-
 ## Feature Extraction
 
 The system applies MFCC (Mel Frequency Cepstral Coefficients) extraction for audio preprocessing.
@@ -246,18 +234,6 @@ Main tasks:
 - Voice inference execution
 - Relay control
 - RGB LED state updates
-
----
-
-## Algorithmic Flowchart
-
-<p align="center">
-  <img src="images/flowchart.png" width="700"/>
-</p>
-
-<p align="center">
-  <em>Figure 9. Main System Flowchart</em>
-</p>
 
 ---
 
