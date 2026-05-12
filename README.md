@@ -16,7 +16,7 @@ The system supports:
 ## System Demonstration
 
 <p align="center">
-  <img src="images/prototype.jpg" width="700"/>
+  <img src="images/phy_system-1.png" width="700"/>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ The system follows a modular architecture consisting of four major subsystems:
 ## System Block Diagram
 
 <p align="center">
-  <img src="images/system_block_diagram.png" width="850"/>
+  <img src="images/system_block_diagram-1.png" width="850"/>
 </p>
 
 <p align="center">
