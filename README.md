@@ -15,14 +15,7 @@ The system supports:
 
 ## System Demonstration
 
-<p align="center">
-  <img src="images/phy_system-1.png" width="700"/>
-</p>
-
-<p align="center">
-  <em>Figure 1. Final Physical Prototype</em>
-</p>
-
+![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/phy_system-1.png)
 ---
 
 ## Tools & Components
@@ -36,18 +29,6 @@ The system supports:
 * **PCB Design:** Proteus Design Suite
 * **AI Platform:** Edge Impulse
 * **Communication Protocols:** I2S, I2C, WiFi, WebSockets
-
----
-
-## Hardware Components
-
-<p align="center">
-  <img src="images/components.jpg" width="800"/>
-</p>
-
-<p align="center">
-  <em>Figure 2. Main Hardware Components Used in the System</em>
-</p>
 
 ---
 
@@ -76,13 +57,7 @@ The system follows a modular architecture consisting of four major subsystems:
 
 ## System Block Diagram
 
-<p align="center">
-  <img src="images/system_block_diagram-1.png" width="850"/>
-</p>
-
-<p align="center">
-  <em>Figure 3. Overall System Architecture</em>
-</p>
+![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/system_block_diagram-1.png)
 
 ---
 
