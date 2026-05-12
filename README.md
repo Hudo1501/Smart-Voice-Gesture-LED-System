@@ -117,14 +117,8 @@ The trained model is exported as an ultra-lightweight C++ library and embedded d
 
 ## AI Model Performance
 
-<p align="center">
-  <img src="images/model_performance.png" width="700"/>
-</p>
 
-<p align="center">
-  <em>Figure 5. Accuracy, Loss, and On-device Inference Performance</em>
-</p>
-
+![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/AI_Model_Performance.png)
 ---
 
 ## Communication Protocols
@@ -259,14 +253,7 @@ PROGMEM
 
 ## Web Dashboard
 
-<p align="center">
-  <img src="images/web_interface.png" width="850"/>
-</p>
-
-<p align="center">
-  <em>Figure 10. Central Control Web Interface</em>
-</p>
-
+![image]()
 ---
 
 ## Experimental Results
@@ -299,17 +286,6 @@ The system demonstrated:
 - No buffer overflow
 - Reliable continuous operation
 
----
-
-## ESP32 Memory Monitoring
-
-<p align="center">
-  <img src="images/memory_report.png" width="800"/>
-</p>
-
-<p align="center">
-  <em>Figure 11. ESP32 Dynamic Memory Evaluation</em>
-</p>
 
 ---
 
